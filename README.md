@@ -42,4 +42,4 @@ Create a private project in GitHub and share with us your code.
 
 The repo should have your name, for example **"_pardock-clip-test-challenge"**, it will help us to identify your test.
 
-Feel free to ask questions at any time (jose.dominguez@payclip.com).
+Feel free to ask questions at any time (fernando.espinosa@payclip.com).
